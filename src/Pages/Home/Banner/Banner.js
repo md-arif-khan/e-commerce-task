@@ -2,7 +2,7 @@ import React from 'react';
 import img1 from "../../../assets/slider-images/shoe.jpg"
 import img2 from "../../../assets/slider-images/watchs.webp"
 import img3 from "../../../assets/slider-images/phone.jpg"
-import img4 from "../../../assets/banner4.jpg"
+
 const Banner = () => {
     return (
         <div className="carousel w-full h-[350px] md:h-[600px]">

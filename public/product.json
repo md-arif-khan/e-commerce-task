@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Awsome Shoe",
+      "details": "A shoe is an item of footwear intended to protect and comfort the human foot. They are often worn with a sock. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with form originally being tied to function.",
+      "price": "$25",
+      "picture": "https://i.ibb.co/fHbYff5/download.jpg"
+    },
+    {
+      "name": "Best Watch",
+      "details": "A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps or any other kind of bracelet. A pocket watch is designed for a person to carry in a pocket, often attached to a chain.",
+      "price": "$29",
+      "picture": "https://i.ibb.co/Sdg3qY5/ME3233-main.jpg"
+    },
+    {
+      "name": "Big Bag",
+      "details": "A bag (also known regionally as a sack) is a common tool in the form of a non-rigid container. The use of bags predates recorded history, with the earliest bags being lengths of animal skin, cotton, or woven plant fibers, folded up at the edges and secured in that shape with strings of the same material",
+      "price": "$36",
+      "picture": "https://i.ibb.co/k5x8Gws/0c83971a-f17a-47d3-ba71-fe25f15581fb.jpg"
+    },
+    {
+      "name": "Headphone",
+      "details": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound. Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. Headphones are also known as earphones",
+      "price": "$119",
+      "picture": "https://i.ibb.co/swFgDWR/borofone-bo12-power-bt-headset-headphones.jpg"
+    },
+    {
+      "name": "iPhone Pro",
+      "details": "The iPhone is a line of smartphones designed and marketed by Apple Inc. These devices use Apple's iOS mobile operating system. The first-generation iPhone was announced by then-Apple CEO Steve Jobs on January 9, 2007. Since then, Apple has annually released new iPhone models and iOS updates. As of November 1, 2018, more than 2.2 billion iPhones had been sold. As of 2022, the iPhone accounts for 15.6% of global smartphone market share",
+      "price": "$500",
+      "picture": "https://i.ibb.co/3SzB5dq/iphone-card-40-iphone14pro-202209-FMT-WHH.jpg"
+    },
+    {
+      "name": "T Shart",
+      "details": "A T-shirt (also spelled tee-shirt or tee shirt), or tee for short, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar.",
+      "price": "$12",
+      "picture": "https://i.ibb.co/nkPzhk7/images-6.jpg"
+    },
+    {
+      "name": "Cricket Bat",
+      "details": "A cricket bat is a specialised piece of equipment used by batters in the sport of cricket to hit the ball, typically consisting of a cane handle attached to a flat-fronted willow-wood blade. It may also be used by a batter who is making ground to avoid a run out, by holding the bat and touching the ground with it. The length of the bat may be no more than 38 inches (96.5 cm) and the width no more than 4.25 inches (10.8 cm). Its use is first mentioned in 1624. Since 1979, a law change has provided that cricket bats can only be made from wood.",
+      "price": "$75",
+      "picture": "https://i.ibb.co/GxYfZct/0336463-super-cricket-bat.jpg"
+    },
+    {
+      "name": "Data Cabel",
+      "details": "USB was designed to standardize the connection of peripherals to personal computers, both to communicate with and to supply electric power. It has largely replaced interfaces such as serial ports and parallel ports, and has become commonplace on a wide range of devices. Examples of peripherals that are connected via USB include computer keyboards and mice, video cameras, printers, portable media players, mobile (portable) digital telephones, disk drives, and network adapters.",
+      "price": "$90",
+      "picture": "https://i.ibb.co/jbS5mQr/81f0x-KVMHo-L-AC-SL1500.jpg"
+    },
+    {
+        "name": "Camera",
+        "details": "A camera is an optical instrument that captures images. Most cameras can capture 2D images, while some more advanced models can capture 3D images. At a basic level, most cameras consist of a sealed box (the camera body), with a small hole (the aperture) that allows light to pass through and capture an image on a light-sensitive surface (usually a digital sensor or photographic film). ",
+        "price": "$400",
+        "picture": "https://i.ibb.co/99g3p5f/GUEST-86a9c2be-9727-4296-9f58-91d85dde1e62.jpg"
+      }
+  ]
