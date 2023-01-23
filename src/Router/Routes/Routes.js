@@ -45,7 +45,7 @@ const router=createBrowserRouter([
             {
                 path:'/checkout/:id',
                 element:<PrivateRoute><CheckOut></CheckOut></PrivateRoute>,
-                loader:({params})=>fetch(`http://localhost:5000/product/${params.id}`)
+                loader:({params})=>fetch(`https://e-commerce-task-server.vercel.app/product/${params.id}`)
             },
            
         ]

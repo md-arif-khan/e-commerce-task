@@ -6,14 +6,14 @@ import OrderRow from './OrderRow';
 const OrderList = () => {
     const [orderList,setOrderList]=useState([])
     useEffect(()=>{
-        fetch('http://localhost:5000/orderList')
+        fetch('https://e-commerce-task-server.vercel.app/orderList')
         .then(res=>res.json())
         .then(data=>setOrderList(data))
     },[])
     const handleUserDelete=id=>{
         const proceed=window.confirm("Are you sure, you want to cancel this order")
         if(proceed){
-          fetch(`http://localhost:5000/orders/${id}`,{
+          fetch(`https://e-commerce-task-server.vercel.app/orders/${id}`,{
            method:"DELETE"
  
           })

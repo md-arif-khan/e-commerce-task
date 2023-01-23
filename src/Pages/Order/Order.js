@@ -7,7 +7,7 @@ const Order = () => {
     const [orders,setOrder]=useState([])
     
     useEffect(()=>{
-       fetch(`http://localhost:5000/orders?email=${user?.email}`,{
+       fetch(`https://e-commerce-task-server.vercel.app/orders?email=${user?.email}`,{
         headers:{
           authorization:`Bearer ${localStorage.getItem('eCommerce-token')}`
         }
@@ -19,7 +19,7 @@ const Order = () => {
       console.log(id)
        const proceed=window.confirm("Are you sure, you want to cancel this order")
        if(proceed){
-         fetch(`http://localhost:5000/orders/${id}`,{
+         fetch(`https://e-commerce-task-server.vercel.app/orders/${id}`,{
           method:"DELETE"
 
          })
