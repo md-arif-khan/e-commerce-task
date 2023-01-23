@@ -61,6 +61,7 @@ const Login = () => {
                     <div class="text-center">
                         <h2 class="text-3xl font-bold text-gray-900">Log In</h2>
                         <p class="mt-2 text-base text-gray-600">Don’t have one? <Link to='/signup' title="" class="text-blue-600 transition-all duration-200 hover:underline hover:text-blue-700">Create a new account</Link></p>
+                        <p className='text-lg'>admin email: <span className='font-bold text-red-700'>joy@gmail.com</span> admin password: <span className='font-bold text-red-700'>222222</span></p>
                     </div>
     
                     <form onSubmit={handleLogin} class="mt-8">
