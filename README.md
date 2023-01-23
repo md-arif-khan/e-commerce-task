@@ -1,7 +1,9 @@
 <h1>About Project</h1>
 
-<h3>Use Tecnology: </h3>
-<p>Front End Side: React js, React Router, Tailwind CSS, daisyUI, Firebase Authentication, react-hot-toast.</p>
+<h2>Use Tecnology: </h2>
+
+<h3>Front End Side:</h3>
+<p>React js, React Router, Tailwind CSS, daisyUI, Firebase Authentication, react-hot-toast.</p>
 
 <h3>Backend Side:</h3> 
 <p>Node.js, Express.js, MongoDB, JWT Token, dotenv,cors.</p>
