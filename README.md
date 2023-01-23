@@ -1,10 +1,14 @@
 <h1>About Project</h1>
 
-Use Tecnology: 
-Front End Side: React js, React Router, Tailwind CSS, daisyUI, Firebase Authentication, react-hot-toast.
+<h3>Use Tecnology: </h3>
+<p>Front End Side: React js, React Router, Tailwind CSS, daisyUI, Firebase Authentication, react-hot-toast.</p>
 
-Backend Side: Node.js, Express.js, MongoDB, JWT Token, dotenv,cors.
-Tools: Vercel ,Netlify
+<h3>Backend Side:</h3> 
+<p>Node.js, Express.js, MongoDB, JWT Token, dotenv,cors.</p>
 
-Admin email: joy@gmail.com
-Admin password:222222
+<h3>Tools:</h3>
+ <p>Vercel ,Netlify</p>
+
+<p>Admin email: joy@gmail.com</p>
+<p>Admin password:222222</p>
+
